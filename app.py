@@ -3,7 +3,7 @@ import os
 import aisuite as ai
 import json
 
-api_key = "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"
+api_key = "change to yours"
 os.environ['GROQ_API_KEY'] = api_key
 
 model = "groq:openai/gpt-oss-120b"
